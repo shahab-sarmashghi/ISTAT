@@ -47,6 +47,3 @@
 
 build/**/*
 
-include/*
-lib/*
-bin/*
