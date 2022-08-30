@@ -45,6 +45,6 @@ eta is 0.00102011
 DP p-value is 8.66247e-06
 PB p-value is 2.63722e-10
 ```
-Here, `54` out of `101` reference intervals are overlapped by query intervals, and the computed p-values using DP and PB methods for the observed overlap are reported. Further, all possible p-values for overlap ranging from `0` to `m` (number of reference intervals) is written to `hirt-1000-pval.txt`.
+Here, `54` out of `101` reference intervals are overlapped by query intervals, and the computed p-values using DP and PB methods for the observed overlap are reported. Furthermore, all possible p-values for overlap ranging from `0` to `m` (number of reference intervals) is written to `hirt-1000-pval.txt`.
 
 [1]: https://www.cell.com/cell-systems/pdf/S2405-4712(19)30187-5.pdf
